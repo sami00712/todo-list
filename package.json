@@ -1,0 +1,20 @@
+{
+  "name": "sami1st_todo_list",
+  "version": "1.0.0",
+  "description": "This is 1st new Feauture todo_list in my account",
+  "main": "main.js",
+  "type": "module",
+  "bin":"main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muhammad_sami",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
